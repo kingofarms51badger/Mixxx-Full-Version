@@ -242,4 +242,4 @@ This repository serves as the official landing page for **Mixxx**. The software 
 **Get the most recent version of Mixxx today!**
 
 ---
-**Last updated:** 2026-10-17 06:42:27 UTC
+**Last updated:** 2026-10-17 11:27:58 UTC
